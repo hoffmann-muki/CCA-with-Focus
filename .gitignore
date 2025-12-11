@@ -1,0 +1,15 @@
+.venv/
+.venv/*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+*.log
+*.svg
+approx_tree_run.ipynb
+.DS_Store
+env/
+venv/
+.idea/
